@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Karpov\\CS\\DLL_Sistema_kontrolya_versiy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E7FEB9-7D10-44E1-9480-FA0C47270CD9}|DLL_Sistema_kontrolya_versiy\\DLL_Sistema_kontrolya_versiy.csproj|d:\\karpov\\cs\\dll_sistema_kontrolya_versiy\\dll_sistema_kontrolya_versiy\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E7FEB9-7D10-44E1-9480-FA0C47270CD9}|DLL_Sistema_kontrolya_versiy\\DLL_Sistema_kontrolya_versiy.csproj|solutionrelative:dll_sistema_kontrolya_versiy\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E7FEB9-7D10-44E1-9480-FA0C47270CD9}|DLL_Sistema_kontrolya_versiy\\DLL_Sistema_kontrolya_versiy.csproj|d:\\karpov\\cs\\dll_sistema_kontrolya_versiy\\dll_sistema_kontrolya_versiy\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E7FEB9-7D10-44E1-9480-FA0C47270CD9}|DLL_Sistema_kontrolya_versiy\\DLL_Sistema_kontrolya_versiy.csproj|solutionrelative:dll_sistema_kontrolya_versiy\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E7FEB9-7D10-44E1-9480-FA0C47270CD9}|DLL_Sistema_kontrolya_versiy\\DLL_Sistema_kontrolya_versiy.csproj|d:\\karpov\\cs\\dll_sistema_kontrolya_versiy\\dll_sistema_kontrolya_versiy\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E7FEB9-7D10-44E1-9480-FA0C47270CD9}|DLL_Sistema_kontrolya_versiy\\DLL_Sistema_kontrolya_versiy.csproj|solutionrelative:dll_sistema_kontrolya_versiy\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\Karpov\\CS\\DLL_Sistema_kontrolya_versiy\\DLL_Sistema_kontrolya_versiy\\Square.cs",
+              "RelativeDocumentMoniker": "DLL_Sistema_kontrolya_versiy\\Square.cs",
+              "ToolTip": "D:\\Karpov\\CS\\DLL_Sistema_kontrolya_versiy\\DLL_Sistema_kontrolya_versiy\\Square.cs",
+              "RelativeToolTip": "DLL_Sistema_kontrolya_versiy\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:57:41.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Karpov\\CS\\DLL_Sistema_kontrolya_versiy\\DLL_Sistema_kontrolya_versiy\\Rectangle.cs",
+              "RelativeDocumentMoniker": "DLL_Sistema_kontrolya_versiy\\Rectangle.cs",
+              "ToolTip": "D:\\Karpov\\CS\\DLL_Sistema_kontrolya_versiy\\DLL_Sistema_kontrolya_versiy\\Rectangle.cs",
+              "RelativeToolTip": "DLL_Sistema_kontrolya_versiy\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:22:18.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\Karpov\\CS\\DLL_Sistema_kontrolya_versiy\\DLL_Sistema_kontrolya_versiy\\Triangle.cs",
+              "RelativeDocumentMoniker": "DLL_Sistema_kontrolya_versiy\\Triangle.cs",
+              "ToolTip": "D:\\Karpov\\CS\\DLL_Sistema_kontrolya_versiy\\DLL_Sistema_kontrolya_versiy\\Triangle.cs",
+              "RelativeToolTip": "DLL_Sistema_kontrolya_versiy\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:17:28.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
